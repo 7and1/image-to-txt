@@ -1,4 +1,4 @@
-import type { Image, Character } from "./types.ts";
+import type { Image } from "./types.ts";
 import { FONT } from "./generated.ts";
 
 /// Euclidean distance squared
